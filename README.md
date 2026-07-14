@@ -197,7 +197,7 @@ Highlights include:
 ## Repository Structure
 
 ```
-Superstore-Sales-Dashboard
+Ecommerce-Product-Dashboard
 │
 ├── Dataset
 │
