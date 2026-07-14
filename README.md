@@ -1,8 +1,8 @@
 # E-commerce Product Analytics Dashboard
 
-An end-to-end Business Intelligence project built with MySQL and Power BI to transform raw e-commerce product data into an interactive dashboard for product portfolio, pricing, and market performance analysis.
+An end-to-end project built with MySQL and Power BI to transform raw e-commerce product data into an interactive dashboard for product portfolio, pricing, and market performance analysis.
 
-The project follows a complete BI workflow, including data cleaning, dimensional modelling, ETL, dashboard development, and business insight generation.
+This project follows a complete BI workflow, including data cleaning, dimensional modelling, ETL, dashboard development, and business insight generation.
 
 ## About the Project
 
@@ -10,20 +10,20 @@ E-commerce platforms manage thousands of products across different brands, selle
 
 This project focuses on product portfolio management by combining pricing, inventory availability, and customer ratings to support merchandising and product strategy decisions.
 
-In this project, I built an end-to-end Business Intelligence solution that transforms raw product data into an interactive Power BI dashboard. The dashboard helps users explore product portfolio composition, pricing trends, brand performance, customer ratings, and inventory availability from multiple business perspectives.
+Hence, this project built an end-to-end Business Intelligence solution that transforms raw product data into an interactive Power BI dashboard. The dashboard helps users explore product portfolio composition, pricing trends, brand performance, customer ratings, and inventory availability from multiple business perspectives.
 
 ## Business Questions
 
 This dashboard was designed to answer questions such as:
 
-Which product categories contain the largest number of products?
-Which brands have the largest product portfolio?
-How are products priced across different brands and categories?
-How are discounts distributed across the product catalogue?
-Which categories receive the highest customer ratings?
-Which brands experience the highest out-of-stock rate?
-Is there a relationship between product price and customer ratings?
-How does selling price compare with actual price?
+1. Which product categories contain the largest number of products?
+2. Which brands have the largest product portfolio?
+3. How are products priced across different brands and categories?
+4. How are discounts distributed across the product catalogue?
+5. Which categories receive the highest customer ratings?
+6. Which brands experience the highest out-of-stock rate?
+7. Is there a relationship between product price and customer ratings?
+8. How does selling price compare with actual price?
 
 ## Dataset
 
