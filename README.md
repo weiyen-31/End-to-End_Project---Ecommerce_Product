@@ -131,7 +131,7 @@ The report consists of three pages, each focusing on a different business perspe
 
 <img width="880" height="492" alt="image" src="https://github.com/user-attachments/assets/e6b591c1-b7eb-4268-9be6-87eb712bbbf8" />
 
-This page provides a high-level overview of the product catalogue and inventory.
+This page provides an overview of the product catalogue and inventory.
 
 Highlights include:
 
