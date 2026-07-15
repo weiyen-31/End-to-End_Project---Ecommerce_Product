@@ -200,6 +200,8 @@ Highlights include:
 Ecommerce-Product-Dashboard
 │
 ├── Dataset
+|    ├── Raw Data.csv
+│    ├── Cleaned Data.csv
 │
 ├── MySQL
 │   ├── Data Cleaning.sql
@@ -207,13 +209,13 @@ Ecommerce-Product-Dashboard
 │   ├── Data Model.sql
 │
 ├── Power BI
-│   └── Superstore Sales Dashboard.pbix
+│   └── Ecommerce Product Dashboard.pbix
 │
 ├── Images
-│   ├── Executive Dashboard.png
-│   ├── Product Dashboard.png
-│   ├── Customer Dashboard.png
-│   ├── Star Schema.png
+│   ├── Dashboard Product Overview.png
+│   ├── Dashboard Pricing & Market Analysis.png
+│   ├── Dashboard Product Performance.png
+│   ├── Schema.png
 │
 └── README.md
 ```
