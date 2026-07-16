@@ -10,7 +10,7 @@ E-commerce platforms manage thousands of products across different brands, selle
 
 This project focuses on product portfolio management by combining pricing, inventory availability, and customer ratings to support merchandising and product strategy decisions.
 
-Hence, this project built an end-to-end Business Intelligence solution that transforms raw product data into an interactive Power BI dashboard. The dashboard helps users explore product portfolio composition, pricing trends, brand performance, customer ratings, and inventory availability from multiple business perspectives.
+Hence, This project builds an end-to-end Business Intelligence solution that transforms raw product data into an interactive Power BI dashboard. The dashboard helps users analyze product portfolio composition, pricing trends, brand performance, customer ratings, and inventory availability for products listed on Flipkart India. The dataset reflects information last updated on 2 November 2021.
 
 ## Business Questions
 
